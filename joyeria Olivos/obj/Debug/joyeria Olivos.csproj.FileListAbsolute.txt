@@ -1,0 +1,11 @@
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\bin\Debug\joyeria Olivos.exe.config
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\bin\Debug\joyeria Olivos.exe
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\bin\Debug\joyeria Olivos.pdb
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.csproj.AssemblyReference.cache
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria_Olivos.Form1.resources
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria_Olivos.Properties.Resources.resources
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.csproj.GenerateResource.cache
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.exe
+C:\Users\Oscar Hernandez\source\repos\joyeria Olivos\joyeria Olivos\obj\Debug\joyeria Olivos.pdb
